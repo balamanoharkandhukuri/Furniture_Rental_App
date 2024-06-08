@@ -1,2 +1,2 @@
 # Furniture_Rental_App
-Create interactive Furniture rental application for browser using HTML and CSS.
+Created a interactive Furniture rental application for web browser using HTML and CSS.
